@@ -4,10 +4,8 @@ public class Main extends Menu {
         Scanner sc = new Scanner(System.in);
         Menu menu = new Menu();
         menu.show();
-
         //String s = sc.nextLine();
         //menu.setGroup(s);
         //menu.showSelectGroup;
-
     }
 }
