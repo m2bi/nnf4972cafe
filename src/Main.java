@@ -4,6 +4,7 @@ public class Main extends Menu {
         Scanner sc = new Scanner(System.in);
         Menu menu = new Menu();
         menu.show();
+        //사용하지 못한 코드들
         //String s = sc.nextLine();
         //menu.setGroup(s);
         //menu.showSelectGroup;
